@@ -7,6 +7,11 @@ a {
     text-decoration: none;
 }
 
+.body{
+    color: #434455;
+    background-color: #FFFFFF;
+}
+
 .heager {}
 
 .header-navigation {}
@@ -134,8 +139,6 @@ a {
 
 .team-list-item {
     background-color: #FFFFFF;
-    width: 264px;
-    height: 380px;
 }
 
 .team-list-item-image {}
@@ -179,8 +182,6 @@ a {
 .portfolio-title-list {}
 
 .portfolio-title-list-image {
-    width: 360px;
-    height: 300px;
 }
 
 .portfolio-list-item {
