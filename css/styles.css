@@ -113,9 +113,15 @@ a {
     color: #FFFFFF;
     cursor: pointer;
     background-color: #4D5AE5;
+    line-height: 1.5
+    letter-spacing: 0.04 
 }
 
 .hero-banner-button-primary:hover {
+    background-color: #404BBF;
+}
+
+.hero-banner-button-primary:focus {
     background-color: #404BBF;
 }
 
