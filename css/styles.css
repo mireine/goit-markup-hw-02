@@ -25,7 +25,7 @@ a {
     font-size: 18px;
     letter-spacing: 0.03em;
     line-height: 117%;
-    color:  #4d5ae5;
+    color: #4d5ae5;
 
 }
 
@@ -50,7 +50,9 @@ a {
     color: #404BBF;
 }
 
-.contacts {}
+.contacts {
+    font-style: normal
+}
 
 .contacts-list {}
 
@@ -183,8 +185,7 @@ a {
 
 .portfolio-title-list {}
 
-.portfolio-title-list-image {
-}
+.portfolio-title-list-image {}
 
 .portfolio-list-item {
     font-weight: 500;
