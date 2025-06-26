@@ -54,10 +54,8 @@ a {
     color: #404bbf;
 }
 
-}
-
 .header-navigation-list .header-navigation-list-item:first-child .header-navigation-list-title {
-  color: #2e2f42;
+    color: #2e2f42;
 }
 
 .contacts {
@@ -87,8 +85,7 @@ a {
     font-size: 16px;
     cursor: pointer;
     background-color: #4D5AE5;
-    line-height: 1.5 
-    letter-spacing: 0.04em
+    line-height: 1.5 letter-spacing: 0.04em
 }
 
 .hero-banner-button-primary:hover {
