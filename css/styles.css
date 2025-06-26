@@ -110,16 +110,16 @@ a {
 .feature-title {
     font-weight: 500;
     font-size: 20px;
-    color: #2E2F42;
+    line-height: 1.2;
     letter-spacing: 0.02em;
-    line-height: 120%
+    color: #2e2f42;
 }
 
 .feature-list-item-text {
     font-size: 16px;
-    color: #434455;
+    line-height: 1.5;
     letter-spacing: 0.02em;
-    line-height: 120%;
+    color: #434455;
 }
 
 .team {
