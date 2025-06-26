@@ -63,37 +63,6 @@ a {
 
 .contacts-list-item {}
 
-.contacts-list-item-mail {
-    font-size: 16px;
-    line-height: 150%;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-
-.contacts-list-item-mail:hover {
-    color: #404BBF;
-}
-
-.contacts-list-item-mail:focus {
-    color: #404BBF;
-}
-
-.contacts-list-item-number {
-    font-size: 16px;
-    line-height: 150%;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-
-.contacts-list-item-number:hover {
-    color: #404BBF;
-}
-
-.contacts-list-item-number:focus {
-    color: #404BBF; 
-}
-
-
 .hero-banner {
     background-color: #2E2F42;
 }
@@ -108,13 +77,13 @@ a {
 }
 
 .hero-banner-button-primary {
+    color: #FFFFFF;
     font-weight: 500;
     font-size: 16px;
-    color: #FFFFFF;
     cursor: pointer;
     background-color: #4D5AE5;
-    line-height: 1.5
-    letter-spacing: 0.04 
+    line-height: 1.5 
+    letter-spacing: 0.04em
 }
 
 .hero-banner-button-primary:hover {
