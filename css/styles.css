@@ -50,16 +50,11 @@ a {
     color: #2e2f42;
 }
 
-.first-link:hover,
-.first-link:focus {
+
+.header-navigation-list-title:hover {
     color: #404bbf;
 }
 
-.header-navigation-list-title {
-    color: #434455;
-}
-
-.header-navigation-list-title:hover,
 .header-navigation-list-title:focus {
     color: #404bbf;
 }
