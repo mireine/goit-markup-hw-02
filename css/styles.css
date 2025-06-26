@@ -36,7 +36,9 @@ a {
 
 .header-navigation-list {}
 
-.header-navigation-list-item {}
+.header-navigation-list-item {
+    color: #434455;
+}
 
 .header-navigation-list-title {
     font-weight: 500;
